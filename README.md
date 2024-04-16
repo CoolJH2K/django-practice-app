@@ -1,4 +1,6 @@
 # django-practice-app
+## Disclaimer
+AS OF APRIL 16, 2024, THIS REPO IS NOW ARCHIVED
 ## Description
 In which I carefully followed a tutorial for writing my first Django app through a [series of documents](https://docs.djangoproject.com/en/4.2/) on the official Django website.
 ### Why did I make this?
